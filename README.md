@@ -2,7 +2,7 @@
 Performed exploratory data analytics on crime in New York, USA over last 16 years
 
 Youtube link to presentation : https://www.youtube.com/watch?v=yarRlu-OA6c <br>
-Prohected hosted on drive : https://drive.google.com/drive/u/1/folders/1xaZgcmBhzs2EY2FnoVgHzXMoOGM5o0O2
+Hosted on drive : https://drive.google.com/drive/u/1/folders/1xaZgcmBhzs2EY2FnoVgHzXMoOGM5o0O2
 
 # Motivation
 
