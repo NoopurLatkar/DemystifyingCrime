@@ -25,7 +25,7 @@ Our study ranges across -
 - Your chance of being a victim of violent crime in New York is 1 in 172
 - Inspiration of analyzing trends and patterns to inhibit crime sparked from a Netflix Series MindHunters that we are a big fan of.
 
-#AGENDA : Crime Mapping
+# Agenda : Crime Mapping
 
 - When and where are majority crimes happening? How has that changed over time?
 (Time series analysis of crime numbers and evolving crime types)
@@ -70,6 +70,7 @@ https://datasetsearch.research.google.com/search?query=criminal%20behavior&docid
 *Data will be filtered and cleaned based on the scope of the questions we will answer. All of the data will not be used.
 
 # Questions
+
 - What questions would you like to answer using the data set? Enumerate and briefly discuss at least three interesting and non-trivial questions. How do you plan to address these questions? Briefly sketch your workflow of what you plan to do.
 > - What are the correlation between unemployment/income/social indicator and crime rates? What are the impacts of these on the latter?
 > - How does education influence crime? Do less educated people or college-dropouts have a higher tendency of turning into criminals? Or does higher education contribute to white-collar crimes like frauds and scams?
