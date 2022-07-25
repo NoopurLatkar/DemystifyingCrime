@@ -40,8 +40,6 @@ The idea sparked while discussing Mind Hunters, a tv show we are interested in. 
 
 # Data
 
-#DATASETS
-
 This research uses an extensive database of criminal records from court summons, the time and location of crime and crime type distribution in the famous city of New York.
 
 - <b> NYPD Court Summons Data (2006 - 2021)
